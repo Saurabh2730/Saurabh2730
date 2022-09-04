@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Saurabh2730
+- 👋 Hi, I’m @Saurabh
 - 👀 I’m interested in coding and i am a beginner 
 - 🌱 I’m currently learning c language and python
 
